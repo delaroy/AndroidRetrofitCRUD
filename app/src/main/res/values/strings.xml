@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RetrofitCRUD</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="name_hint">Name</string>
+    <string name="age_hint">Age</string>
+    <string name="mob_no_hint">Mobile Number</string>
+    <string name="mail_hint">email</string>
+    <string name="ins_hint">Insert</string>
+    <string name="read_hint">Read</string>
+    <string name="update_hint">Update</string>
+</resources>
+
